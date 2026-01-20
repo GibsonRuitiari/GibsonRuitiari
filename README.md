@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @GibsonRuitiari android/kotlin dev
-- 👀 I’m interested in Jetpack compose and anything android/kotlin related
-- 🌱 I’m currently working on [Kenya law app](https://play.google.com/store/apps/details?id=com.ocluse.themis)
-- 💞️ I’m looking to collaborate on any android/kotlin projects 
+- 👋 Hi, I’m @GibsonRuitiari kotlin dev and recently c-leaner
+- 👀 I’m interested in compiler development
 - 📫 How to reach me ruitiarii@gmail.com
 
 <!---
