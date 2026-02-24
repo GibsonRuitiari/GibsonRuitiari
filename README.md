@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @GibsonRuitiari kotlin dev and recently c-leaner
-- 👀 I’m interested in compiler development
-- 📫 How to reach me ruitiarii@gmail.com
+Hi!
+I am Gibson Ruitiari. 
+
+I am a software engineer focused on all things algorithms and low-level stuff.
+
+Connect with me via:
+ - ruitiarii@gmail.com
 
 <!---
 GibsonRuitiari/GibsonRuitiari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
