@@ -1,7 +1,7 @@
 Hi!
 I am Gibson Ruitiari. 
 
-I am a software engineer focused on all things algorithms and low-level stuff.
+I am a software engineer focused on all things algorithms, low-level stuff and sdks
 
 Connect with me via:
  - ruitiarii@gmail.com
